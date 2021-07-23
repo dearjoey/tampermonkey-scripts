@@ -17,7 +17,7 @@
 // @include         http*://pthome.net/details.php*
 // @include         http*://springsunday.net/details.php*
 // @include         http*://pterclub.com/details.php*
-// @include         http*://pt.m-team.cc/details.php*
+// @include         http*://kp.m-team.cc/details.php*
 // @include         http*://tjupt.org/details.php*
 
 // @include         http*://www.hd.ai/Torrents.upload*
@@ -41,7 +41,7 @@ const SiteName = {
     PTHOME: "pthome.net",
     SSD: "springsunday.net",
     PTERCLUB: "pterclub.com",
-    MTEAM: "pt.m-team.cc",
+    MTEAM: "kp.m-team.cc",
     TJUPT: "tjupt.org",
     LEMONHD: "lemonhd.org",
     HDAI: "www.hd.ai"
